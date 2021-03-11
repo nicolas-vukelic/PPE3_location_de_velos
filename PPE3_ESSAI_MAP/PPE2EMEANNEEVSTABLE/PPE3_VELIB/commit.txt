@@ -1,6 +1,0 @@
-PPE3 2018 V1
-mode PUBLIC 
--visualisation des vélos classiques DISPONIBLES
-mode Service technique
--visualisation de TOUS les vélos classiques 
-- possiblité de changer l'état D à R ou R à D (par formulaire)
